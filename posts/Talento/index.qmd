@@ -225,6 +225,7 @@ for (i in 3:20) {
   fib[i] <- fib[i-1]+fib[i-2]
   i=i+1
 }
+par(mar=c(2.5,2.5,0.5,0.5), mgp=c(1.5,0.5,0))
 plot(ratio, pch=20,col='blue')
 lines(ratio, pch=20,col='green')
 abline(h=gold, col='blue')
