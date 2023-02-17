@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estudos espiritas",
+    "section": "",
+    "text": "Parábola dos Talentos\n\n\n\n\n\n\n\nParábolas\n\n\nJesus\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nOmar C. N. Pereira\n\n\n\n\n\n\n  \n\n\n\n\nBem-vindos\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nOmar Pereira\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Parábola dos Talentos",
+    "section": "",
+    "text": "Reproduzo, abaixo, o texto retirado do Evangelho Segundo o Espiritismo, Capítulo XVI, Parágrafo 6:\n“O Senhor age como um homem que, tendo de fazer longa viagem fora do seu país, chamou seus servidores e lhes entregou seus bens. – Depois de dar cinco talentos a um, dois a outro e um a outro, a cada um segundo a sua capacidade, partiu imediatamente. – Então, o que recebeu cinco talentos foi-se, negociou com aquele dinheiro e ganhou cinco outros. – O que recebera dois ganhou, do mesmo modo, outros tantos. Mas o que apenas recebera um cavou um buraco na terra e aí escondeu o dinheiro de seu amo. – Passado longo tempo, o amo daqueles servidores voltou e os chamou a contas. – Veio o que recebera cinco talentos e lhe apresentou outros cinco, dizendo: Senhor, entregaste-me cinco talentos; aqui estão, além desses, mais cinco que ganhei. – Respondeu-lhe o amo: Servidor bom e fiel; pois que foste fiel em pouca coisa, confiar-te-ei muitas outras; compartilha da alegria do teu senhor. – O que recebera dois talentos apresentou-se a seu turno e lhe disse: Senhor, entregaste-me dois talentos; aqui estão, além desses, dois outros que ganhei. – O amo lhe respondeu: Bom e fiel servidor; pois que foste fiel em pouca coisa, confiar-te-ei muitas outras; compartilha da alegria do teu senhor. – Veio em seguida o que recebeu apenas um talento e disse: Senhor, sei que és homem severo, que ceifas onde não semeaste e colhes de onde nada puseste; – por isso, como te temia, escondi o teu talento na terra; aqui o tens: restituo o que te pertence. – O homem, porém, lhe respondeu: Servidor mau e preguiçoso; se sabias que ceifo onde não semeei e que colho onde nada pus – devias pôr o meu dinheiro nas mãos dos banqueiros, a fim de que, regressando, eu retirasse com juros o que me pertence. – Tirem-lhe, pois, o talento que está com ele e dêem-no ao que tem dez talentos; – porquanto, dar-se-á a todos os que já têm e esses ficarão cumulados de bens; quanto àquele que nada tem, tirar-se-lhe-á mesmo o que pareça ter; e seja esse servidor inútil lançado nas trevas exteriores, onde haverá prantos e ranger de dentes. (S. MATEUS, 25:14 a 30.)”"
+  },
+  {
+    "objectID": "posts/welcome/index.html#testando",
+    "href": "posts/welcome/index.html#testando",
+    "title": "Parábola dos Talentos",
+    "section": "Testando",
+    "text": "Testando\nEscrevendo em itálico.\nFazendo um plot."
+  },
+  {
+    "objectID": "posts/welcome/index.html#fdfdfdd",
+    "href": "posts/welcome/index.html#fdfdfdd",
+    "title": "Parábola dos Talentos",
+    "section": "fdfdfdd",
+    "text": "fdfdfdd\nO Senhor aqui representa Deus.\nPor que"
+  },
+  {
+    "objectID": "posts/welcome/index.html#a-proporção-áurea",
+    "href": "posts/welcome/index.html#a-proporção-áurea",
+    "title": "Parábola dos Talentos",
+    "section": "A proporção áurea",
+    "text": "A proporção áurea\nO número áureo (também conhecido como razão áurea ou golden ratio, em inglês) é uma proporção encontrada em muitos aspectos da natureza, da arte e da arquitetura. Ele também tem sido associado à beleza e harmonia na arte e no design, devido à sua presença em proporções estéticas agradáveis.\n\nOs números citados por Jesus\nOs números citados por Jesus em sua parábola, representando os talentos entregues aos servidores do Senhor (1, 2 e 5), nos dá, em uma combinação algébrica, o valor exato da proporção áurea, ou seja,\n\\[\n\\text{Proporção áurea} = \\frac{1+\\sqrt{5}}{2} \\approx 1.618034\n\\]\n\n\n\n\n\nA razão áurea é definida como a razão entre dois segmentos de reta, em que o segmento maior \\((a+b)\\) está para o segmento menor ( \\(a\\) ) assim como o segmento menor ( \\(a\\) ) está para o segmento restante (\\(b\\)):\n\\[(a+b)/a = a/b \\]\nEssa proporção pode ser simplificada, por meio de álgebra, para:\n\\[a/b = (1 + \\sqrt{5} )/2\\]\nEm que \\((1 + \\sqrt{5})/2\\) é o valor numérico da razão áurea. Este número é aproximadamente igual a 1,6180339887.\n\nDemonstração de \\(\\frac{1+\\sqrt{5}}{2}\\)\nPodemos chegar na expressão \\(a/b = (1 + \\sqrt{5})/2\\) a partir de \\((a+b)/a = a/b\\) usando manipulação algébrica.\nComeçamos com a expressão (a+b)/a = a/b e a expandimos:\n\\[ \\frac{ (a+b)}{a} = \\frac{a}{b}\\]\nou seja,\n\\[\\frac{a}{a} + \\frac{b}{a} = \\frac{a}{b}\\] ou ainda\n\\[\n1 + \\frac{b}{a} = \\frac{a}{b}\n\\]\nsubtraindo \\(b/a\\) de ambos os lados\n\\[\n1 = \\frac{a}{b} - \\frac{b}{a} = \\frac{a^2 - b^2}{ab}\n\\]\nEm seguida, multiplicamos os dois lados por \\(ab\\):\n\\[\nab = a^2 - b^2\n\\]\nExplicitando \\(a^2\\):\n\\[\na^2 = ab + b^2\n\\]\nDividindo ambos os lados por \\(b^2\\):\n\\[\n\\frac{a^2}{b^2} = 1 + \\frac{a}{b}\n\\]\nSubstituindo \\(a/b\\) por \\(x\\), obtemos a equação quadrática:\n\\[ x^2 = x + 1 \\]\nou\n\\[\nx^2 -x - 1 = 0\n\\]\nque pode ser resolvida pela conhecida expressão\n\\[ x = \\frac{-b \\pm \\sqrt{b^2 - 4 a c} }{2a} \\]\nNeste caso temos que \\(a=1\\) , \\(b=-1\\), e \\(c=-1\\). Então, a solução positiva para a expressão \\(x^2-x-1=0\\) é\n\\[\nx = \\frac{-(-1) \\pm \\sqrt{(-1)^2 - 4 (1) (-1)} }{2 (1)}\n\\]\nou\n\\[\nx = \\frac{1 + \\sqrt{5} }{2}\n\\]\nPortanto, a partir da manipulação algébrica da expressão original \\((a+b)/a = a/b\\), chegamos à expressão \\(a/b = (1 + \\sqrt{5})/2\\), que é a definição da razão áurea."
+  },
+  {
+    "objectID": "posts/welcome/index.html#modelo-de-regressão-assintótico",
+    "href": "posts/welcome/index.html#modelo-de-regressão-assintótico",
+    "title": "Parábola dos Talentos",
+    "section": "Modelo de regressão assintótico",
+    "text": "Modelo de regressão assintótico\nQueremos construir uma função que leve os valores iniciais de talentos 5, 2 e 1, aos valores finais 11, 4 e 0, respectivamente aos servidores A, B e C. Estes valores representam a quantidade de talentos que cada servidor recebeu e com quanto ficou após a chegada do Senhor.\nA relação entre estes valores não é linear como podemos ver abaixo.\n\n\n\n\n\nPrecisamos de um modelo não linear. Queremos que esse modelo tenha uma assintota horizontal quando a quantidade de talentos iniciais, a qual chamaremos de \\(x\\), tende a infinito. Essa assintota é um valor limite. Apesar de receber infinitos talentos, o indivíduo não pode ultrapassar um certo valor, que pode ser entendido como o Senhor, indicando que conforme evoluímos nos aproximamos da perfeição (assintota) mas nunca a atingiremos. Isso é importante, pois sabemos que há somente um único Deus.\nPara achar o valor dessa assintota, pegamos o valor que o servidor A atingiu com seus esforços, ou seja, 10 talentos, e multiplicamos pela proporção áurea, obtendo 16.1803399.\nO nosso modelo não linear será dado pela expressão:\n\\[ y(x) = \\phi_1 * \\left( 1 - e^{-\\phi_2 * (x-\\phi_3)} \\right) \\] em que \\(\\phi_1\\) é a assintota quando \\(x \\rightarrow \\infty\\), \\(\\phi_2\\) corresponde a meia vida \\(t_{0.5}= ln(2) / \\phi_2\\), e \\(\\phi_3\\) é o valor de \\(x\\) quando \\(y=0\\).\nDado que \\(\\phi_1 =\\) 16.1803399, e \\(\\phi_3 = 1\\), precisamos estimar \\(\\phi_2\\). Abaixo, deixaremos os códigos em R.\n\n# Definir os dados de entrada\nx <- c(1,2,5)\ny <- c(0,4,11)\n# Proporção áuria\ngold <- (1+sqrt(5))/2\n#\nmodel_function <- function(a, x) {\n  gold * 10 * (1 - exp(-a * (x-1)))\n}\n\n# Ajuste do modelo usando a função nls\nfit <- nls(y ~ model_function(a,  x), \n           start = list(a = 0.8))\n\nVamos gerar o nosso gráfico com os pontos e a função estimada."
+  },
+  {
+    "objectID": "posts/Talento/index.html",
+    "href": "posts/Talento/index.html",
+    "title": "Parábola dos Talentos",
+    "section": "",
+    "text": "Reproduzo, abaixo, o texto retirado do Evangelho Segundo o Espiritismo, Capítulo XVI, Parágrafo 6:\n“O Senhor age como um homem que, tendo de fazer longa viagem fora do seu país, chamou seus servidores e lhes entregou seus bens. – Depois de dar cinco talentos a um, dois a outro e um a outro, a cada um segundo a sua capacidade, partiu imediatamente. – Então, o que recebeu cinco talentos foi-se, negociou com aquele dinheiro e ganhou cinco outros. – O que recebera dois ganhou, do mesmo modo, outros tantos. Mas o que apenas recebera um cavou um buraco na terra e aí escondeu o dinheiro de seu amo. – Passado longo tempo, o amo daqueles servidores voltou e os chamou a contas. – Veio o que recebera cinco talentos e lhe apresentou outros cinco, dizendo: Senhor, entregaste-me cinco talentos; aqui estão, além desses, mais cinco que ganhei. – Respondeu-lhe o amo: Servidor bom e fiel; pois que foste fiel em pouca coisa, confiar-te-ei muitas outras; compartilha da alegria do teu senhor. – O que recebera dois talentos apresentou-se a seu turno e lhe disse: Senhor, entregaste-me dois talentos; aqui estão, além desses, dois outros que ganhei. – O amo lhe respondeu: Bom e fiel servidor; pois que foste fiel em pouca coisa, confiar-te-ei muitas outras; compartilha da alegria do teu senhor. – Veio em seguida o que recebeu apenas um talento e disse: Senhor, sei que és homem severo, que ceifas onde não semeaste e colhes de onde nada puseste; – por isso, como te temia, escondi o teu talento na terra; aqui o tens: restituo o que te pertence. – O homem, porém, lhe respondeu: Servidor mau e preguiçoso; se sabias que ceifo onde não semeei e que colho onde nada pus – devias pôr o meu dinheiro nas mãos dos banqueiros, a fim de que, regressando, eu retirasse com juros o que me pertence. – Tirem-lhe, pois, o talento que está com ele e dêem-no ao que tem dez talentos; – porquanto, dar-se-á a todos os que já têm e esses ficarão cumulados de bens; quanto àquele que nada tem, tirar-se-lhe-á mesmo o que pareça ter; e seja esse servidor inútil lançado nas trevas exteriores, onde haverá prantos e ranger de dentes. (S. MATEUS, 25:14 a 30.)”"
+  },
+  {
+    "objectID": "posts/Talento/index.html#a-proporção-áurea",
+    "href": "posts/Talento/index.html#a-proporção-áurea",
+    "title": "Parábola dos Talentos",
+    "section": "A proporção áurea",
+    "text": "A proporção áurea\nO número áureo (também conhecido como razão áurea ou golden ratio, em inglês) é uma proporção encontrada em muitos aspectos da natureza, da arte e da arquitetura. Ele também tem sido associado à beleza e harmonia na arte e no design, devido à sua presença em proporções estéticas agradáveis.\n\nOs números citados por Jesus\nOs números citados por Jesus em sua parábola, representando os talentos entregues aos servidores do Senhor (1, 2 e 5), nos dá, em uma combinação algébrica, o valor exato da proporção áurea, ou seja,\n\\[\n\\text{Proporção áurea} = \\frac{1+\\sqrt{5}}{2} \\approx 1.618034\n\\]\n\n\n\nCitação da Figura: By Ahecht (Original); Pbroks13 (Derivative work) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15656641\n\n\nA razão áurea é definida como a razão entre dois segmentos de reta, em que o segmento maior \\((a+b)\\) está para o segmento menor ( \\(a\\) ) assim como o segmento menor ( \\(a\\) ) está para o segmento restante (\\(b\\)):\n\\[(a+b)/a = a/b \\]\nEssa proporção pode ser simplificada, por meio de álgebra, para:\n\\[a/b = (1 + \\sqrt{5} )/2\\]\nEm que \\((1 + \\sqrt{5})/2\\) é o valor numérico da razão áurea. Este número é aproximadamente igual a 1,6180339887.\n\nDemonstração de \\(\\frac{1+\\sqrt{5}}{2}\\)\nPodemos chegar na expressão \\(a/b = (1 + \\sqrt{5})/2\\) a partir de \\((a+b)/a = a/b\\) usando manipulação algébrica.\nComeçamos com a expressão (a+b)/a = a/b e a expandimos:\n\\[ \\frac{ (a+b)}{a} = \\frac{a}{b}\\]\nou seja,\n\\[\\frac{a}{a} + \\frac{b}{a} = \\frac{a}{b}\\] ou ainda\n\\[\n1 + \\frac{b}{a} = \\frac{a}{b}\n\\]\nsubtraindo \\(b/a\\) de ambos os lados\n\\[\n1 = \\frac{a}{b} - \\frac{b}{a} = \\frac{a^2 - b^2}{ab}\n\\]\nEm seguida, multiplicamos os dois lados por \\(ab\\):\n\\[\nab = a^2 - b^2\n\\]\nExplicitando \\(a^2\\):\n\\[\na^2 = ab + b^2\n\\]\nDividindo ambos os lados por \\(b^2\\):\n\\[\n\\frac{a^2}{b^2} = 1 + \\frac{a}{b}\n\\]\nSubstituindo \\(a/b\\) por \\(x\\), obtemos a equação quadrática:\n\\[ x^2 = x + 1 \\]\nou\n\\[\nx^2 -x - 1 = 0\n\\]\nque pode ser resolvida pela conhecida expressão\n\\[ x = \\frac{-b \\pm \\sqrt{b^2 - 4 a c} }{2a} \\]\nNeste caso temos que \\(a=1\\) , \\(b=-1\\), e \\(c=-1\\). Então, a solução positiva para a expressão \\(x^2-x-1=0\\) é\n\\[\nx = \\frac{-(-1) \\pm \\sqrt{(-1)^2 - 4 (1) (-1)} }{2 (1)}\n\\]\nou\n\\[\nx = \\frac{1 + \\sqrt{5} }{2}\n\\]\nPortanto, a partir da manipulação algébrica da expressão original \\((a+b)/a = a/b\\), chegamos à expressão \\(a/b = (1 + \\sqrt{5})/2\\), que é a definição da razão áurea."
+  },
+  {
+    "objectID": "posts/Talento/index.html#modelo-de-regressão-assintótico",
+    "href": "posts/Talento/index.html#modelo-de-regressão-assintótico",
+    "title": "Parábola dos Talentos",
+    "section": "Modelo de regressão assintótico",
+    "text": "Modelo de regressão assintótico\nQueremos construir uma função que leve os valores iniciais de talentos 5, 2 e 1, aos valores finais 11, 4 e 0, respectivamente aos servidores A, B e C. Estes valores representam a quantidade de talentos que cada servidor recebeu e com quanto ficou após a chegada do Senhor.\nA relação entre estes valores não é linear como podemos ver abaixo.\n\n\n\n\n\nPrecisamos de um modelo não linear. Queremos que esse modelo tenha uma assintota horizontal quando a quantidade de talentos iniciais, a qual chamaremos de \\(x\\), tende a infinito. Essa assintota é um valor limite. Apesar de receber infinitos talentos, o indivíduo não pode ultrapassar um certo valor, que pode ser entendido como o Senhor, indicando que conforme evoluímos nos aproximamos da perfeição (assintota) mas nunca a atingiremos. Isso é importante, pois sabemos que há somente um único Deus.\nPara achar o valor dessa assintota, pegamos o valor que o servidor A atingiu com seus esforços, ou seja, 10 talentos, e multiplicamos pela proporção áurea, obtendo 16.1803399.\nO nosso modelo não linear será dado pela expressão:\n\\[ y(x) = \\phi_1 * \\left( 1 - e^{-\\phi_2 * (x-\\phi_3)} \\right) \\] em que \\(\\phi_1\\) é a assintota quando \\(x \\rightarrow \\infty\\), \\(\\phi_2\\) corresponde a meia vida \\(t_{0.5}= ln(2) / \\phi_2\\), e \\(\\phi_3\\) é o valor de \\(x\\) quando \\(y=0\\).\nDado que \\(\\phi_1 =\\) 16.1803399, e \\(\\phi_3 = 1\\), precisamos estimar \\(\\phi_2\\). Abaixo, deixaremos os códigos em R.\n\n# Definir os dados de entrada\nx <- c(1,2,5)\ny <- c(0,4,11)\n# Proporção áuria\ngold <- (1+sqrt(5))/2\n#\nmodel_function <- function(a, x) {\n  gold * 10 * (1 - exp(-a * (x-1)))\n}\n\n# Ajuste do modelo usando a função nls\nfit <- nls(y ~ model_function(a,  x), \n           start = list(a = 0.8))\n\nVamos gerar o nosso gráfico com os pontos e a função estimada.\n\n\n\n\n\nAs estimativas com duas casas decimais para os valores de talentos finais são:\n\nround(predict(fit, data.frame(x)),2)\n\n[1]  0.00  4.01 11.00"
+  },
+  {
+    "objectID": "posts/Welcome/index.html",
+    "href": "posts/Welcome/index.html",
+    "title": "Bem-vindos",
+    "section": "",
+    "text": "Bem-vindos1\nSejam bem-vindos ao nosso blog sobre Espiritismo.\n\n\n\n\n\n\n\n\n\n\nFootnotes\n\n\nEsse site é de inteira responsabilidade do autor. Caso encontre erros, queira fazer comentários, ou trocar uma ideia sobre o artigo, por favor, me escreva: omarcnpereiraead@gmail.com↩︎"
+  }
+]

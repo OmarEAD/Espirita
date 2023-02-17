@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "3e6da479"
+  },
+  "about.qmd": {
+    "about.html": "485be323"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "85cf54c1"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "a149429e"
+  },
+  "posts/Talento/index.qmd": {
+    "index.html": "9ddb1f70"
+  },
+  "posts/Welcome/index.qmd": {
+    "index.html": "14075dda"
+  }
+}
