@@ -88,6 +88,6 @@
     "href": "posts/Talento/index.html#sequência-de-fibonacci-e-a-razão-áurea",
     "title": "Parábola dos Talentos",
     "section": "Sequência de Fibonacci e a razão áurea",
-    "text": "Sequência de Fibonacci e a razão áurea\nOs primeiros números que formam a sequência de Fibonacci são:\n\\[0,1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, \\cdots\\] Esta sequência é definida como segue:\n\\[F_n = F_{n-1} + F_{n-2} \\] tendo como valores iniciais \\(F_1 = 0\\) e \\(F_2 = 1\\).\nPodemos definir\n\\[ \\text{Razão áurea}= \\lim_{x \\to \\infty} \\left( \\frac{F_{n+1}}{F_n} \\right) = \\frac{1+ \\sqrt{5}}{2} = 1.618034 \\] Podemos ver no gráfico abaixo.\n\nfib=c(1,1)\nratio <- c()\nfor (i in 3:20) {\n  ratio <- c(ratio, fib[i-1]/fib[i-2])\n  fib[i] <- fib[i-1]+fib[i-2]\n  i=i+1\n}\nplot(ratio, pch=20,col='blue')\nlines(ratio, pch=20,col='green')\nabline(h=gold, col='blue')"
+    "text": "Sequência de Fibonacci e a razão áurea\nOs primeiros números que formam a sequência de Fibonacci são:\n\\[0,1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, \\cdots\\] Esta sequência é definida como segue:\n\\[F_n = F_{n-1} + F_{n-2} \\] tendo como valores iniciais \\(F_1 = 0\\) e \\(F_2 = 1\\).\nPodemos definir\n\\[ \\text{Razão áurea}= \\lim_{x \\to \\infty} \\left( \\frac{F_{n+1}}{F_n} \\right) = \\frac{1+ \\sqrt{5}}{2} = 1.618034 \\] Podemos ver no gráfico abaixo."
   }
 ]

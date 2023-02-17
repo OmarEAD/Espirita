@@ -217,7 +217,7 @@ Podemos definir
 
 $$ \text{Razão áurea}= \lim_{x \to \infty} \left( \frac{F_{n+1}}{F_n} \right) = \frac{1+ \sqrt{5}}{2} = 1.618034 $$ Podemos ver no gráfico abaixo.
 
-```{r}
+```{r echo=FALSE}
 fib=c(1,1)
 ratio <- c()
 for (i in 3:20) {

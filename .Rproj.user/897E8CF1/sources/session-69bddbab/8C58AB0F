@@ -7,7 +7,7 @@
     "contents": "",
     "dirty": false,
     "created": 1676474878852.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "rmdVisualMode": "false",

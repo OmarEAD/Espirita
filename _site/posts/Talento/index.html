@@ -347,16 +347,6 @@ x = \frac{1 + \sqrt{5} }{2}
 <p>Podemos definir</p>
 <p><span class="math display">\[ \text{Razão áurea}= \lim_{x \to \infty} \left( \frac{F_{n+1}}{F_n} \right) = \frac{1+ \sqrt{5}}{2} = 1.618034 \]</span> Podemos ver no gráfico abaixo.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>fib<span class="ot">=</span><span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">1</span>)</span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>ratio <span class="ot">&lt;-</span> <span class="fu">c</span>()</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">3</span><span class="sc">:</span><span class="dv">20</span>) {</span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>  ratio <span class="ot">&lt;-</span> <span class="fu">c</span>(ratio, fib[i<span class="dv">-1</span>]<span class="sc">/</span>fib[i<span class="dv">-2</span>])</span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>  fib[i] <span class="ot">&lt;-</span> fib[i<span class="dv">-1</span>]<span class="sc">+</span>fib[i<span class="dv">-2</span>]</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>  i<span class="ot">=</span>i<span class="sc">+</span><span class="dv">1</span></span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(ratio, <span class="at">pch=</span><span class="dv">20</span>,<span class="at">col=</span><span class="st">'blue'</span>)</span>
-<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a><span class="fu">lines</span>(ratio, <span class="at">pch=</span><span class="dv">20</span>,<span class="at">col=</span><span class="st">'green'</span>)</span>
-<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a><span class="fu">abline</span>(<span class="at">h=</span>gold, <span class="at">col=</span><span class="st">'blue'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <p><img src="index_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid" width="672"></p>
 </div>
