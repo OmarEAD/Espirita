@@ -203,8 +203,6 @@ As estimativas com duas casas decimais para os valores de talentos finais são:
 round(predict(fit, data.frame(x)),2)
 ```
 
-#Curiosidade
-
 ## Sequência de Fibonacci e a razão áurea
 
 Os primeiros números que formam a sequência de Fibonacci são:
