@@ -3,7 +3,7 @@
     "path": "D:/SitesOmar/Espirita/posts/Welcome/index.qmd",
     "project_path": "posts/Welcome/index.qmd",
     "type": "quarto_markdown",
-    "hash": "2834561589",
+    "hash": "3214235695",
     "contents": "",
     "dirty": false,
     "created": 1676637913420.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "193:0",
-        "cursorPosition": "5,20",
+        "cursorPosition": "5,9",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1676721828,
+    "lastKnownWriteTime": 1676721961,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1676721828538,
+    "last_content_update": 1676721961245,
     "read_only": false,
     "read_only_alternatives": []
 }

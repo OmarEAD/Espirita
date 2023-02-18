@@ -3,7 +3,7 @@ title: "Bem-vindos"
 author: "Omar Pereira"
 date: "2023-02-17"
 #categories: [news, code, analysis]
-image: "Photo_Kardec.jpg"
+image: "kardec2.jpg"
 ---
 
 # Bem-vindos[^1]
