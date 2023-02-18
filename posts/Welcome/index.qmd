@@ -13,4 +13,4 @@ image: "chile3.jpg"
 Sejam bem-vindos ao nosso blog sobre Espiritismo. O objetivo do site é incentivar as pessoas a estudarem Física e Matemática.
 
 
-![](chile3.jpg){fig-align="center"}
+![Domínio público, https://commons.wikimedia.org/w/index.php?curid=77972078](Photo_Kardec.jpg){fig-align="center"}

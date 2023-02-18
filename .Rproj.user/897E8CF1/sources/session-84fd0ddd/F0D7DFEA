@@ -1,0 +1,31 @@
+{
+    "id": "F0D7DFEA",
+    "path": "D:/SitesOmar/Espirita/posts/Welcome/index.qmd",
+    "project_path": "posts/Welcome/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "1956668004",
+    "contents": "",
+    "dirty": false,
+    "created": 1676637913420.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "193:0",
+        "cursorPosition": "15,2",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676721696,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676721696586,
+    "read_only": false,
+    "read_only_alternatives": []
+}
