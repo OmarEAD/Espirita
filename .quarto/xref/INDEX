@@ -16,5 +16,11 @@
   },
   "posts/Welcome/index.qmd": {
     "index.html": "14075dda"
+  },
+  "posts/Talento/talentos.qmd": {
+    "talentos.html": "f0177e74"
+  },
+  "posts/Welcome/welcome.qmd": {
+    "welcome.html": "83474780"
   }
 }
