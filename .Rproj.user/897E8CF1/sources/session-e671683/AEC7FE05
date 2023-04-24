@@ -3,7 +3,7 @@
     "path": "D:/SitesOmar/Espirita/posts/Talento/talentos.qmd",
     "project_path": "posts/Talento/talentos.qmd",
     "type": "quarto_markdown",
-    "hash": "3572225172",
+    "hash": "942110406",
     "contents": "",
     "dirty": false,
     "created": 1677452691605.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "28,0",
-        "scrollLine": "22"
+        "cursorPosition": "31,729",
+        "scrollLine": "27"
     },
     "folds": "",
-    "lastKnownWriteTime": 1682358903,
+    "lastKnownWriteTime": 1682365464,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1682358903374,
+    "last_content_update": 1682365464809,
     "read_only": false,
     "read_only_alternatives": []
 }
